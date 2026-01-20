@@ -1,0 +1,5 @@
+{
+  "name": "PathFinder: RRT & RRT* Visualizer",
+  "description": "An interactive educational tool to visualize and understand Rapidly-exploring Random Trees (RRT) and its optimal variant (RRT*) in robotics path planning. Includes AI-powered explanations.",
+  "requestFramePermissions": []
+}
