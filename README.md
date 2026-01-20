@@ -11,7 +11,7 @@ An advanced, interactive educational tool designed to visualize and explain **Ra
 <div align="center">
   <!-- PLACEHOLDER: Main Demo Video (GIF or MP4) -->
   <!-- Recommended size: 800x450px -->
-  <img src="docs/demo.gif" alt="PathFinder RRT* Animation Demo" width="800" />
+[![Demo Video](https://img.youtube.com/vi/KkEAe3gj2Zg/maxresdefault.jpg)](https://youtu.be/KkEAe3gj2Zg)
   <p><em>Real-time visualization of RRT* finding an optimal path through a maze.</em></p>
 </div>
 
