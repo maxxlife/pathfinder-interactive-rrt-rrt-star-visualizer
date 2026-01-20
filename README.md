@@ -8,12 +8,9 @@
 
 An advanced, interactive educational tool designed to visualize and explain **Rapidly-exploring Random Trees (RRT)** and its optimal variant, **RRT***. Built for students, roboticists, and algorithm enthusiasts to understand path planning in high-dimensional spaces.
 
-<div align="center">
-  <!-- PLACEHOLDER: Main Demo Video (GIF or MP4) -->
-  <!-- Recommended size: 800x450px -->
+## 📺 Demo Video
+
 [![Demo Video](https://img.youtube.com/vi/KkEAe3gj2Zg/maxresdefault.jpg)](https://youtu.be/KkEAe3gj2Zg)
-  <p><em>Real-time visualization of RRT* finding an optimal path through a maze.</em></p>
-</div>
 
 ---
 
